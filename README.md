@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p>Hello! I'm Julio Cesar dos Santos, and I study Computer Science in The Federal University of Juiz de fora in Brazil. I'm currently an exchange student in Japan.
+<p>Hello! I'm Júlio César dos Santos, and I study Computer Science in The Federal University of Juiz de Fora in Brazil. I'm currently an exchange student in Japan.
   My skills include Java, Javascript, C, C++, HTML, CSS, Vue, React, with interest in deepening my experience with Python and SQL. 
 </p>
 
